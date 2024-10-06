@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co/8XPzDfD/kindpng-7318921.jpg",
+      "review": "A gripping psychological thriller with unexpected twists.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Mystery",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/KrrfgQH/kindpng-1064993.jpg",
+      "review": "A classic tale of love, wealth, and the American Dream.",
+      "totalPages": 180,
+      "rating": 4.0,
+      "category": "Classic",
+      "tags": ["Romance", "Drama"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/G9W1F8G/kindpng-81724-1.jpg",
+      "review": "A powerful story about racial injustice and moral growth.",
+      "totalPages": 281,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Legal", "Coming-of-age"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "image": "https://i.ibb.co/KrrfgQH/kindpng-1064993.jpg",
+      "review": "A thrilling dystopian adventure with strong characters.",
+      "totalPages": 374,
+      "rating": 4.3,
+      "category": "Young Adult",
+      "tags": ["Dystopian", "Action"],
+      "publisher": "Scholastic Corporation",
+      "yearOfPublishing": 2008
+    },
+    {
+      "bookId": 5,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/8XPzDfD/kindpng-7318921.jpg",
+      "review": "A chilling portrayal of a totalitarian regime and its impact on humanity.",
+      "totalPages": 328,
+      "rating": 4.6,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 6,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/G9W1F8G/kindpng-81724-1.jpg",
+      "review": "A timeless romance with memorable characters and social commentary.",
+      "totalPages": 432,
+      "rating": 4.7,
+      "category": "Romance",
+      "tags": ["Classic", "Satire"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    }
+  ]
+  
